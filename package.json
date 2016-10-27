@@ -1,0 +1,15 @@
+{
+  "name": "relyq-pusher",
+  "version": "1.0.0",
+  "description": "A node library to make pushing into `relyq`-style queues as easy as humanly possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Patten",
+  "license": "Proprietary",
+  "dependencies": {
+    "ioredis": "^2.4.0",
+    "node-uuid": "^1.4.7"
+  }
+}
